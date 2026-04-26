@@ -1,5 +1,6 @@
 package com.ecom.product.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.Data;
 
@@ -16,5 +17,6 @@ public class Category {
     @OneToMany(mappedBy = "category",
                 cascade = CascadeType.ALL,
                 fetch = FetchType.LAZY)
+    @JsonIgnore
     private Set<Product> products;
 }
