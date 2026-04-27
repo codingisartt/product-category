@@ -100,10 +100,9 @@ GET /api/categories
 
 ## Screenshots
 
-```
+
 <img width="605" height="382" alt="image" src="https://github.com/user-attachments/assets/3f1d38d8-587a-497f-8994-1914d6001f87" />
 <img width="605" height="298" alt="image" src="https://github.com/user-attachments/assets/284e92e1-a626-4972-9ebd-0debe17e4611" />
 <img width="605" height="299" alt="image" src="https://github.com/user-attachments/assets/cb180008-a8f8-4dff-9001-12ea3b112b24" />
 
-```
 
